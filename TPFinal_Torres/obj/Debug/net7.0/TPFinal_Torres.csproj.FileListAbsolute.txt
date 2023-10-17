@@ -1,0 +1,15 @@
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\TPFinal_Torres.csproj.AssemblyReference.cache
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\TPFinal_Torres.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\TPFinal_Torres.AssemblyInfoInputs.cache
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\TPFinal_Torres.AssemblyInfo.cs
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\TPFinal_Torres.csproj.CoreCompileInputs.cache
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\bin\Debug\net7.0\TPFinal_Torres.exe
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\bin\Debug\net7.0\TPFinal_Torres.deps.json
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\bin\Debug\net7.0\TPFinal_Torres.runtimeconfig.json
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\bin\Debug\net7.0\TPFinal_Torres.dll
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\bin\Debug\net7.0\TPFinal_Torres.pdb
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\TPFinal_Torres.dll
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\refint\TPFinal_Torres.dll
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\TPFinal_Torres.pdb
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\TPFinal_Torres.genruntimeconfig.cache
+C:\datos\zalo\cursos\MaxiPrograma\n1\TPFinal\TPFinal_Torres\obj\Debug\net7.0\ref\TPFinal_Torres.dll
